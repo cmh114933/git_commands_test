@@ -2,6 +2,6 @@ class User
   def sign_in
   end
 
-  def sign_out
+  def gtfo
   end
 end
