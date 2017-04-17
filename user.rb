@@ -3,5 +3,6 @@ class User
   end
 
   def log_out_here
+
   end
 end
