@@ -5,4 +5,8 @@ class User
   def log_out_here
 
   end
+
+  def more_methods
+
+  end
 end
